@@ -1,0 +1,5 @@
+streamlit
+spacy
+opencv-python-headless
+numpy
+matplotlib
