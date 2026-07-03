@@ -4,6 +4,12 @@
 
 import cv2
 import numpy as np
+import streamlit as st
+
+st.write("OpenCV version:", cv2.__version__)
+st.write("OpenCV file:", cv2.__file__)
+st.write("Has CascadeClassifier:", hasattr(cv2, "CascadeClassifier"))
+st.write("First 20 cv2 attributes:", dir(cv2)[:20])
 
 # ==============================
 # IMAGE ANALYSIS FUNCTION
