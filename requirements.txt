@@ -1,6 +1,6 @@
 streamlit
 spacy
-opencv-python
+opencv-python-headless
 numpy
 matplotlib
 Pillow
