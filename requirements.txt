@@ -1,7 +1,7 @@
-streamlit
-spacy
-opencv-python-headless
-numpy
-matplotlib
-Pillow
+streamlit==1.46.0
+spacy==3.8.7
+opencv-python==4.10.0.84
+numpy==2.2.6
+matplotlib==3.10.3
+Pillow==11.2.1
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
